@@ -1,0 +1,1 @@
+# [Link al diagrama de clases](https://lucid.app/lucidchart/9658cb4e-6dbd-4a38-95ce-5c6c271af8fe/edit?invitationId=inv_3b58d051-b5ab-4421-a50a-89146e6fdb45)
